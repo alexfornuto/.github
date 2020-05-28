@@ -1,7 +1,7 @@
 # Alex Fornuto
 
-- Technical Writer
-- React Dev under Protest
+- Technical writer
+- React dev under protest
 
 ## Main Projects
 
